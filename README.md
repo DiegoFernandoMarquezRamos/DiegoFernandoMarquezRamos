@@ -1,16 +1,18 @@
-## Hi there 👋
+# Diego Fernando Márquez Ramos
 
-<!--
-**DiegoFernandoMarquezRamos/DiegoFernandoMarquezRamos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudiante de 2.º de DAM en U-tad.
+Enfocado en desarrollo backend con Java y SQL.
+También desarrollo aplicaciones Android con Kotlin.
 
-Here are some ideas to get you started:
+## Tecnologías
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Java · SQL · Kotlin · Android · Jetpack Compose
+
+## Proyectos
+
+- **[PrestaKey](https://github.com/DiegoFernandoMarquezRamos/ProyectoIntegradorDiego)** — Proyecto integrador Android con Kotlin y Jetpack Compose para gestionar el préstamo de llaves.
+- **[ProgramarIntelij](https://github.com/DiegoFernandoMarquezRamos/ProgramarIntelij)** — Ejercicios y prácticas de estudio en Java.
+
+## Contacto
+
+[LinkedIn](https://www.linkedin.com/in/diego-fernando-marquez-ramos/) · [Correo](mailto:yodiegojr@gmail.com)
