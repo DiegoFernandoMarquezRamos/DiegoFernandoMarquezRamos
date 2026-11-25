@@ -1,18 +1,39 @@
+<div align="center">
+
 # Diego Fernando Márquez Ramos
 
-Estudiante de 2.º de DAM en U-tad.
-Enfocado en desarrollo backend con Java y SQL.
-También desarrollo aplicaciones Android con Kotlin.
+**Estudiante de 2.º DAM · U-tad**
 
-## Tecnologías
+</div>
 
-Java · SQL · Kotlin · Android · Jetpack Compose
+```bash
+$ whoami
+Diego Fernando Márquez Ramos
 
-## Proyectos
+$ cat focus.txt
+Backend con Java y SQL
+Desarrollo Android con Kotlin
 
-- **[PrestaKey](https://github.com/DiegoFernandoMarquezRamos/ProyectoIntegradorDiego)** — Proyecto integrador Android con Kotlin y Jetpack Compose para gestionar el préstamo de llaves.
-- **[ProgramarIntelij](https://github.com/DiegoFernandoMarquezRamos/ProgramarIntelij)** — Ejercicios y prácticas de estudio en Java.
+$ ls stack/
+Java  SQL  Kotlin  Android  Jetpack-Compose
 
-## Contacto
+$ cat proyectos.txt
+PrestaKey       -> Aplicación Android para gestionar préstamos de llaves
+ProgramarIntelij -> Ejercicios y prácticas de estudio en Java
 
-[LinkedIn](https://www.linkedin.com/in/diego-fernando-marquez-ramos/) · [Correo](mailto:yodiegojr@hotmail.com)
+$ open contact.txt
+LinkedIn: https://www.linkedin.com/in/diego-fernando-marquez-ramos/
+Email:    yodiegojr@hotmail.com
+```
+
+<div align="center">
+
+### `contributions --animate`
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DiegoFernandoMarquezRamos/DiegoFernandoMarquezRamos/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DiegoFernandoMarquezRamos/DiegoFernandoMarquezRamos/output/github-snake.svg" />
+  <img alt="Serpiente recorriendo el gráfico de contribuciones de Diego" src="https://raw.githubusercontent.com/DiegoFernandoMarquezRamos/DiegoFernandoMarquezRamos/output/github-snake.svg" />
+</picture>
+
+</div>
