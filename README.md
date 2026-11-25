@@ -15,4 +15,4 @@ Java · SQL · Kotlin · Android · Jetpack Compose
 
 ## Contacto
 
-[LinkedIn](https://www.linkedin.com/in/diego-fernando-marquez-ramos/) · [Correo](mailto:yodiegojr@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/diego-fernando-marquez-ramos/) · [Correo](mailto:yodiegojr@hotmail.com)
